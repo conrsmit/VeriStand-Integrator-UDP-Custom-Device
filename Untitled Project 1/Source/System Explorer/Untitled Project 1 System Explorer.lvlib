@@ -8,7 +8,10 @@
 			<Item Name="Extra Pages" Type="Folder"/>
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
 			<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
+<<<<<<< HEAD
 			<Item Name="RunTimeMenu Custom Item 2 Launch 4.vi" Type="VI" URL="../RunTimeMenu Custom Item 2 Launch 4.vi"/>
+=======
+>>>>>>> 005c5f0dd59d64b54eda1ffe6d7f7deb4ab22edd
 		</Item>
 		<Item Name="SubVIs" Type="Folder"/>
 		<Item Name="Types" Type="Folder"/>

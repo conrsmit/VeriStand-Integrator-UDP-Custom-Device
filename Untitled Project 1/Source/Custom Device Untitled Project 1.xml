@@ -76,6 +76,7 @@
         <Type>To Common Doc Dir</Type>
 		<Path>Custom Devices\Untitled Project 1\Untitled Project 1 Configuration.llb\Main Page.vi</Path>
       </Item2Launch>
+<<<<<<< HEAD
 	  <RunTimeMenu>
 	  <MenuItem>
 				<GUID>7e89d02b-515f-49e4-9c8a-793511fa9720</GUID>
@@ -90,6 +91,8 @@
 				</Item2Launch>	
 	  </MenuItem>
 	  </RunTimeMenu>
+=======
+>>>>>>> 005c5f0dd59d64b54eda1ffe6d7f7deb4ab22edd
     </Page>
     
   </Pages>
